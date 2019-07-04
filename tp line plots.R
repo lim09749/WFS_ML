@@ -38,7 +38,7 @@ load("tp_svm.RData")
 # save(HABsvm,file="tp_svm.RData")
 # beep(sound=3)
 
-tiff("tp_temp.tiff", width = 6, height = 6, units = "in",
+tiff("tp_temp.tiff", width = 5.75, height = 6, units = "in",
      pointsize=10, res = 300, compression = c("lzw"))
 plot_col = c(7,8,11,12)+4 ##TP
 numrows=1000

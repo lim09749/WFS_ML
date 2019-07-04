@@ -35,7 +35,7 @@ load("tn_svm.RData")
 # save(HABsvm,file="tn_svm.RData")
 # beep(sound=3)
 
-tiff("tn_temp.tiff", width = 6, height = 6, units = "in",
+tiff("tn_temp.tiff", width = 5.75, height = 6, units = "in",
      pointsize=10, res = 300, compression = c("lzw"))
 par(mfrow=c(2,2))
 plot_col = c(7,8,11,12)+4 ##TN

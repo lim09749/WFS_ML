@@ -8,7 +8,7 @@ setwd("C:/Users/xswang/HAB Research")
 # Import and prepare necessary points 
 windstations = c("venf1","cdrf1","42039","42003")
 usgsstations = c("2306647","2296750","2274325","2323500","2319000","2303330","2300500",
-                 "2298830")
+                 "2298830","2292000")
 windloc = read.csv("NDBC_lat_lon.csv")
 windloc$X = NULL
 windloc = windloc[match(windstations, windloc$Station),]

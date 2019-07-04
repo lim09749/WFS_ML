@@ -13,7 +13,7 @@ HAB$Date = as.Date(HAB$Date)
 states = rep(0, nrow(HAB))
 states[HAB$Abundance_cells>=10^5] = 1
 
-alldata = read.csv("totaldata.csv")
+alldata = read.csv("alldata.csv")
 alldata$X = NULL
 for(i in 1:ncol(alldata)) alldata[is.na(alldata[,i]),i]=mean(alldata[,i],na.rm=T)
 alldata[,10:23] = log10(alldata[,10:23]+4)
@@ -94,7 +94,7 @@ for(i in c(1,2,4,5)){
   for(j in 1:numrows){
     addto = rep(0, length(curr)-1)
     addto[i] = sequence[j]
-    preds[j] = attr(predict(HABsvm,curr[,1:(length(curr)-1)]+addto,
+    preds[j] = attr(predict(HABsvm,curr[,1:(length(curr))]+addto,
                             probability=T),"probabilities")[1,2]
   }
   if(i!= 3){

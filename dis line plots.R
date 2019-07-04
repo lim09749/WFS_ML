@@ -35,9 +35,9 @@ load("dis_svm.RData")
 # beep(sound=3)
 # 
 
-tiff("dis_temp.tiff", width = 12.5, height = 2.5, units = "in",
+tiff("dis_temp.tiff", width = 5, height = 7.5, units = "in",
      pointsize=10, res = 300, compression = c("lzw"))
-par(mfrow=c(1,5))
+par(mfrow=c(3,2))
 plot_col = c(11,c(13,15,17,18))
 numrows=1000
 rightrows = rep(TRUE, nrow(prevdata))
@@ -55,10 +55,15 @@ for(j in 1:length(colors)){
   dat = as.data.frame(dat)
   colnames(dat) = colnames(scalefactors)
   pred = attr(predict(HABsvm,dat,probability=T),"probabilities")[,2]
-  plot(log10(10^xseq/(60*60*24*7)*0.0283168),pred,main=colnames(alldata)[i],
-       xlab=expression("Discharge ("~m^{3}/s~")"), ylab="HAB probability [%]",ylim=c(0.1,0.5),
-       col=colors[j],cex.main=3,cex.lab=1.5,xlim=c(max(c(-1,min(log10(10^xseq/(60*60*24*7)*0.0283168)))),
-                                                   max(log10(10^xseq/(60*60*24*7)*0.0283168))),axes=F)
+  # if(j==1){
+    plot(log10(10^xseq/(60*60*24*7)*0.0283168),pred,main=colnames(alldata)[i],
+         xlab=expression("Discharge ("~m^{3}/s~")"), ylab="HAB probability [%]",ylim=c(0.1,0.5),
+         col=colors[j],cex.main=3,cex.lab=1.5,xlim=c(max(c(-1,min(log10(10^xseq/(60*60*24*7)*0.0283168)))),
+                                                     max(log10(10^xseq/(60*60*24*7)*0.0283168))),axes=F)
+  # }else{
+  #   points(log10(10^xseq/(60*60*24*7)*0.0283168),pred,
+  #        col=colors[j],cex.main=3,cex.lab=1.5)
+  # }
   axes_ticks = rbind(log10(c(0.5,1,2.5,5,25,50,100)),
                      log10(c(15,25,50,75,100,150,200,250,300,350,400,450)),
                      log10(c(0.5,1,2.5,5,10,15,20,25,30)),

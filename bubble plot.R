@@ -85,7 +85,7 @@ nobloomtoplot4 = cbind(HABtotal$Latitude,
 
 ###############################################################################################
 ##Help get data
-Nlat <- 28.5
+Nlat <- 28
 Slat <- 26
 Elon <- 278.5
 Wlon <- 276.5
@@ -284,9 +284,9 @@ scalebar(xy=c(277, 25.25),
 
 dev.off()
 ###############################################################################################
-tiff(file = "bsf1.tiff", width =17, height = 9, units = "in",
+tiff(file = "bsf1.tiff", width =24, height = 8, units = "in",
      pointsize=10, res = 600, compression = c("lzw"))
-par(mfrow=c(1,3),mai=c(3.5,2.5,3.5,2.5))
+par(mfrow=c(1,3),mai=c(1,1,1,1))
 plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "", 
         ylab = "",
         main = "October, 1998",
@@ -330,7 +330,7 @@ addPoints(plotblooms(bloomtoplot3), col=getColors(bloomtoplot3), pch=16, xlim=c(
 dev.off()
 
 
-tiff(file = "bsf2.tiff", width =17, height = 9, units = "in",
+tiff(file = "bsf2.tiff", width =24, height = 8, units = "in",
      pointsize=10, res = 600, compression = c("lzw"))
 par(mfrow=c(1,3),mai=c(1,1,1,1))
 plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "", 
@@ -363,6 +363,79 @@ plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "",
         cex.lab=3,
         cex.axis=2)
 mtext(side=1,"Longitude",cex=2.5,line=13)
+addPoints(plotblooms(nobloomtoplot4), col=getColors(nobloomtoplot4), pch=16, xlim=c(Wlon, Elon),
+          ylim=c(Slat, Nlat), lwd=1,cex=(log10(nobloomtoplot4[,3]+1)+1)/divide)
+dev.off()
+#############################################################################################################
+tiff(file = "bsf_total.tiff", width =29, height = 6, units = "in",
+     pointsize=10, res = 600, compression = c("lzw"))
+par(mfrow=c(1,6),mai=c(0.25,0.25,0.25,0.25))
+plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "", 
+        ylab = "",
+        main = "October, 1998",
+        cex.main=5,
+        cex.lab=3,
+        cex.axis=2)
+mtext(side=2,"Latitude",cex=2.5,line=6)
+mtext(side=1,"Longitude",cex=2.5,line=9)
+addPoints(plotblooms(nobloomtoplot1), col=getColors(nobloomtoplot1), pch=16, xlim=c(Wlon, Elon),
+          ylim=c(Slat, Nlat), lwd=1,cex=(log10(nobloomtoplot1[,3]+1)+1)/divide)
+legend(x=277.5, y= 28, 
+       legend=c("Background (0-10^3 cells/L)", 
+                "Very Low (10^3-10^4 cells/L)", 
+                "Low (10^4-10^5 cells/L)",
+                "Medium (10^5-10^6 cells/L)", 
+                "High (10^6-10^7 cells/L)"), 
+       col=c("black","green","yellow","orange","red"), 
+       lty=0, lwd=3, pch=c(19),cex=1.3)
+scalebar(xy=c(276.625, 26.25), 
+         d=100, divs=2, type='bar', 
+         lonlat=T, below="km",cex=1.5)
+
+plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "", 
+        ylab = "",
+        main = "January, 2002",
+        cex.main=5,
+        cex.lab=3,
+        cex.axis=2)
+mtext(side=1,"Longitude",cex=2.5,line=9)
+addPoints(plotblooms(bloomtoplot1), col=getColors(bloomtoplot1), pch=16, xlim=c(Wlon, Elon),
+          ylim=c(Slat, Nlat), lwd=1,cex=(log10(bloomtoplot1[,3]+1)+1)/divide)
+plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "", 
+        ylab = "",
+        main = "November, 2005",
+        cex.main=5,
+        cex.lab=3,
+        cex.axis=2)
+mtext(side=1,"Longitude",cex=2.5,line=9)
+addPoints(plotblooms(bloomtoplot3), col=getColors(bloomtoplot3), pch=16, xlim=c(Wlon, Elon),
+          ylim=c(Slat, Nlat), lwd=1,cex=(log10(bloomtoplot3[,3]+1)+1)/divide)
+plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "", 
+        ylab = "",
+        main = "October, 2010",
+        cex.main=5,
+        cex.lab=3,
+        cex.axis=2)
+mtext(side=1,"Longitude",cex=2.5,line=9)
+addPoints(plotblooms(nobloomtoplot2), col=getColors(nobloomtoplot2), pch=16, xlim=c(Wlon, Elon),
+          ylim=c(Slat, Nlat), lwd=1,cex=(log10(nobloomtoplot2[,3]+1)+1)/divide)
+plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "", 
+        ylab = "",
+        main = "November, 2012",
+        cex.main=5,
+        cex.lab=3,
+        cex.axis=2)
+mtext(side=1,"Longitude",cex=2.5,line=9)
+addPoints(plotblooms(bloomtoplot4), col=getColors(bloomtoplot4), pch=16, xlim=c(Wlon, Elon),
+          ylim=c(Slat, Nlat), lwd=1,cex=(log10(bloomtoplot4[,3]+1)+1)/divide)
+
+plotMap(zoomMap, col="floralwhite", bg="lightblue1", xlab = "", 
+        ylab = "",
+        main = "January, 2018",
+        cex.main=5,
+        cex.lab=3,
+        cex.axis=2)
+mtext(side=1,"Longitude",cex=2.5,line=9)
 addPoints(plotblooms(nobloomtoplot4), col=getColors(nobloomtoplot4), pch=16, xlim=c(Wlon, Elon),
           ylim=c(Slat, Nlat), lwd=1,cex=(log10(nobloomtoplot4[,3]+1)+1)/divide)
 dev.off()
