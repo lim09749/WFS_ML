@@ -1,50 +1,92 @@
 WBodyID,WaterBodyName,DataSource,StationID,StationName,Actual_StationID,Actual_Latitude,Actual_Longitude,DEP_WBID,SampleDate,ActivityDepth,DepthUnits,Parameter,Characteristic,Sample_Fraction,Result_Value,Result_Unit,QACode,Result_Comment,Original_Result_Value,Original_Result_Unit
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/21/1995 0:00,0.5,m,TP_ugl,Phosphorus as P,,1311,ug/l,,,1.311,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/7/1996 0:00,0.5,m,TP_ugl,Phosphorus as P,,818,ug/l,,,0.818,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/21/1996 0:00,0.5,m,TP_ugl,Phosphorus as P,,1562,ug/l,,,1.562,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,8/14/1996 0:00,0.5,m,TP_ugl,Phosphorus as P,,813,ug/l,,,0.813,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/20/1996 0:00,0.5,m,TP_ugl,Phosphorus as P,,1035,ug/l,,,1.035,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/12/1997 0:00,0.5,m,TP_ugl,Phosphorus as P,,1043,ug/l,,,1.043,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/20/1997 0:00,0.5,m,TP_ugl,Phosphorus as P,,1351,ug/l,,,1.351,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,8/12/1997 0:00,0.5,m,TP_ugl,Phosphorus as P,,848,ug/l,,,0.848,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/6/1997 0:00,0.5,m,TP_ugl,Phosphorus as P,,820,ug/l,,,0.82,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/11/1998 0:00,0.5,m,TP_ugl,Phosphorus as P,,784,ug/l,,,0.784,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/14/1998 0:00,0.5,m,TP_ugl,Phosphorus as P,,1259,ug/l,,,1.259,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,3/24/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,1040,ug/l,,,1.04,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/8/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,1170,ug/l,,,1.17,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/8/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,1200,ug/l,,,1.2,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,9/20/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,1060,ug/l,,,1.06,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,12/2/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,1900,ug/l,,,1.9,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,3/23/2011 0:00,0.5,m,TP_ugl,Phosphorus as P,,1190,ug/l,,,1.19,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/2/2011 0:00,0.5,m,TP_ugl,Phosphorus as P,,2170,ug/l,,,2.17,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,9/19/2011 0:00,0.5,m,TP_ugl,Phosphorus as P,,806,ug/l,,,0.806,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,12/15/2011 0:00,0.5,m,TP_ugl,Phosphorus as P,,662,ug/l,,,0.662,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,1/24/2012 0:00,0.5,m,TP_ugl,Phosphorus as P,,990,ug/l,,,0.99,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,4/17/2012 0:00,0.5,m,TP_ugl,Phosphorus as P,,1650,ug/l,,,1.65,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,7/24/2012 0:00,0.5,m,TP_ugl,Phosphorus as P,,1160,ug/l,,,1.16,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,10/17/2012 0:00,0.5,m,TP_ugl,Phosphorus as P,,942,ug/l,,,0.942,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/5/2013 0:00,0.5,m,TP_ugl,Phosphorus as P,,1710,ug/l,,,1.71,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/21/2013 0:00,0.5,m,TP_ugl,Phosphorus as P,,2600,ug/l,,,2.6,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,8/21/2013 0:00,0.5,m,TP_ugl,Phosphorus as P,,1100,ug/l,,,1.1,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/19/2013 0:00,0.5,m,TP_ugl,Phosphorus as P,,982,ug/l,,,0.982,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,3/20/2014 0:00,0.5,m,TP_ugl,Phosphorus as P,,907,ug/l,,,0.907,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/17/2014 0:00,0.5,m,TP_ugl,Phosphorus as P,,890,ug/l,,,0.89,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,9/23/2014 0:00,0.5,m,TP_ugl,Phosphorus as P,,488,ug/l,,,0.488,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,12/15/2014 0:00,0.5,m,TP_ugl,Phosphorus as P,,572,ug/l,,,0.572,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,1/22/2015 0:00,0.5,m,TP_ugl,Phosphorus as P,,474,ug/l,,,0.474,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,4/21/2015 0:00,0.5,m,TP_ugl,Phosphorus as P,,930,ug/l,,,0.93,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,7/27/2015 0:00,0.5,m,TP_ugl,Phosphorus as P,,718,ug/l,,,0.718,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,10/26/2015 0:00,0.5,m,TP_ugl,Phosphorus as P,,1060,ug/l,,,1.06,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/17/2016 0:00,0.5,m,TP_ugl,Phosphorus as P,,674,ug/l,,,0.674,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/18/2016 0:00,0.5,m,TP_ugl,Phosphorus as P,,1130,ug/l,,,1.13,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,8/16/2016 0:00,0.5,m,TP_ugl,Phosphorus as P,,774,ug/l,,,0.774,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/17/2016 0:00,0.5,m,TP_ugl,Phosphorus as P,,1050,ug/l,,,1.05,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,3/16/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,989,ug/l,,,0.989,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/15/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,1220,ug/l,,,1.22,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,9/25/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,1240,ug/l,,,1.24,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,12/14/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,823,ug/l,,,0.823,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,1/4/2018 0:00,0.5,m,TP_ugl,Phosphorus as P,,861,ug/l,,,0.861,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,4/18/2018 0:00,0.5,m,TP_ugl,Phosphorus as P,,1070,ug/l,,,1.07,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,7/23/2018 0:00,0.5,m,TP_ugl,Phosphorus as P,,998,ug/l,,,0.998,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,10/16/2018 0:00,0.5,m,TP_ugl,Phosphorus as P,,1260,ug/l,,,1.26,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/25/2019 0:00,0.5,m,TP_ugl,Phosphorus as P,,972,ug/l,,,0.972,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/11/1993 0:00,0.5,m,TP_ugl,Phosphorus as P,,1872,ug/l,,,1.872,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/13/1993 0:00,0.5,m,TP_ugl,Phosphorus as P,,636,ug/l,,,0.636,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/17/1993 0:00,0.5,m,TP_ugl,Phosphorus as P,,883,ug/l,,,0.883,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/23/1993 0:00,0.5,m,TP_ugl,Phosphorus as P,,576,ug/l,,,0.576,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/21/1995 0:00,0.5,m,TP_ugl,Phosphorus as P,,617,ug/l,,,0.617,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/7/1996 0:00,0.5,m,TP_ugl,Phosphorus as P,,385,ug/l,,,0.385,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/21/1996 0:00,0.5,m,TP_ugl,Phosphorus as P,,1170,ug/l,,,1.17,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/14/1996 0:00,0.5,m,TP_ugl,Phosphorus as P,,462,ug/l,,,0.462,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/20/1996 0:00,0.5,m,TP_ugl,Phosphorus as P,,606,ug/l,,,0.606,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/12/1997 0:00,0.5,m,TP_ugl,Phosphorus as P,,347,ug/l,,,0.347,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/20/1997 0:00,0.5,m,TP_ugl,Phosphorus as P,,671,ug/l,,,0.671,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/12/1997 0:00,0.5,m,TP_ugl,Phosphorus as P,,321,ug/l,,,0.321,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/6/1997 0:00,0.5,m,TP_ugl,Phosphorus as P,,321,ug/l,,,0.321,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/11/1998 0:00,0.5,m,TP_ugl,Phosphorus as P,,297,ug/l,,,0.297,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/14/1998 0:00,0.5,m,TP_ugl,Phosphorus as P,,779,ug/l,,,0.779,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/10/1998 0:00,0.5,m,TP_ugl,Phosphorus as P,,1713,ug/l,,,1.713,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/12/1998 0:00,0.5,m,TP_ugl,Phosphorus as P,,1637,ug/l,,,1.637,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/1/1999 0:00,0.5,m,TP_ugl,Phosphorus as P,,831,ug/l,,,0.831,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/14/1999 0:00,0.5,m,TP_ugl,Phosphorus as P,,667,ug/l,,,0.667,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/14/1999 0:00,0.5,m,TP_ugl,Phosphorus as P,,1836,ug/l,,,1.836,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/5/1999 0:00,0.5,m,TP_ugl,Phosphorus as P,,787,ug/l,,,0.787,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/13/2000 0:00,0.5,m,TP_ugl,Phosphorus as P,,595,ug/l,,,0.595,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/17/2000 0:00,0.5,m,TP_ugl,Phosphorus as P,,943,ug/l,,,0.943,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/17/2000 0:00,0.5,m,TP_ugl,Phosphorus as P,,1034,ug/l,,,1.034,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/4/2000 0:00,0.5,m,TP_ugl,Phosphorus as P,,945,ug/l,,,0.945,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/3/2001 0:00,0.5,m,TP_ugl,Phosphorus as P,,376,ug/l,,,0.376,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,3/6/2001 0:00,0.5,m,TP_ugl,Phosphorus as P,,993,ug/l,,,0.993,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/3/2001 0:00,0.5,m,TP_ugl,Phosphorus as P,,2113,ug/l,,,2.113,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/29/2001 0:00,0.5,m,TP_ugl,Phosphorus as P,,561,ug/l,,,0.561,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/15/2002 0:00,0.5,m,TP_ugl,Phosphorus as P,,734,ug/l,,,0.734,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/16/2002 0:00,0.5,m,TP_ugl,Phosphorus as P,,690,ug/l,,,0.69,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/16/2002 0:00,0.5,m,TP_ugl,Phosphorus as P,,685,ug/l,,,0.685,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/24/2002 0:00,0.5,m,TP_ugl,Phosphorus as P,,481,ug/l,,,0.481,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/24/2002 0:00,0.5,m,TP_ugl,Phosphorus as P,,505,ug/l,,,0.505,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/23/2002 0:00,0.5,m,TP_ugl,Phosphorus as P,,903,ug/l,,,0.903,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/23/2002 0:00,0.5,m,TP_ugl,Phosphorus as P,,860,ug/l,,,0.86,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/28/2003 0:00,0.5,m,TP_ugl,Phosphorus as P,,411,ug/l,,,0.411,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/16/2003 0:00,0.5,m,TP_ugl,Phosphorus as P,,442,ug/l,,,0.442,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/23/2003 0:00,0.5,m,TP_ugl,Phosphorus as P,,712,ug/l,,,0.712,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/8/2003 0:00,0.5,m,TP_ugl,Phosphorus as P,,1864,ug/l,,,1.864,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/7/2004 0:00,0.5,m,TP_ugl,Phosphorus as P,,1216,ug/l,,,1.216,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/15/2004 0:00,0.5,m,TP_ugl,Phosphorus as P,,618,ug/l,,,0.618,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/22/2004 0:00,0.5,m,TP_ugl,Phosphorus as P,,902,ug/l,,,0.902,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/14/2004 0:00,0.5,m,TP_ugl,Phosphorus as P,,569,ug/l,,,0.569,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/25/2006 0:00,0.5,m,TP_ugl,Phosphorus as P,,638,ug/l,,,0.638,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/20/2006 0:00,0.5,m,TP_ugl,Phosphorus as P,,1700,ug/l,,,1.7,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/18/2006 0:00,0.5,m,TP_ugl,Phosphorus as P,,1644,ug/l,,,1.644,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/18/2006 0:00,0.5,m,TP_ugl,Phosphorus as P,,3600,ug/l,,,3.6,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/18/2007 0:00,0.5,m,TP_ugl,Phosphorus as P,,861,ug/l,,,0.861,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/17/2007 0:00,0.5,m,TP_ugl,Phosphorus as P,,1221,ug/l,,,1.221,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/23/2007 0:00,0.5,m,TP_ugl,Phosphorus as P,,1061,ug/l,,,1.061,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/24/2007 0:00,0.5,m,TP_ugl,Phosphorus as P,,1718,ug/l,,,1.718,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/17/2008 0:00,0.5,m,TP_ugl,Phosphorus as P,,1640,ug/l,,,1.64,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/1/2008 0:00,0.5,m,TP_ugl,Phosphorus as P,,394,ug/l,,,0.394,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/14/2008 0:00,0.5,m,TP_ugl,Phosphorus as P,,3100,ug/l,,,3.1,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/8/2008 0:00,0.5,m,TP_ugl,Phosphorus as P,,296,ug/l,,,0.296,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/4/2009 0:00,0.5,m,TP_ugl,Phosphorus as P,,229,ug/l,,,0.229,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/19/2009 0:00,0.5,m,TP_ugl,Phosphorus as P,,929,ug/l,,,0.929,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,3/23/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,503,ug/l,,,0.503,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,6/2/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,406,ug/l,,,0.406,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,9/23/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,493,ug/l,,,0.493,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,12/2/2010 0:00,0.5,m,TP_ugl,Phosphorus as P,,226,ug/l,,,0.226,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/19/2011 0:00,0.5,m,TP_ugl,Phosphorus as P,,265,ug/l,,,0.265,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/6/2011 0:00,0.5,m,TP_ugl,Phosphorus as P,,489,ug/l,,,0.489,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/20/2011 0:00,0.5,m,TP_ugl,Phosphorus as P,,176,ug/l,,,0.176,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/5/2011 0:00,0.5,m,TP_ugl,Phosphorus as P,,230,ug/l,,,0.23,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/23/2012 0:00,0.5,m,TP_ugl,Phosphorus as P,,626,ug/l,,,0.626,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/5/2012 0:00,0.5,m,TP_ugl,Phosphorus as P,,647,ug/l,,,0.647,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,6/20/2013 0:00,0.5,m,TP_ugl,Phosphorus as P,,531,ug/l,,,0.531,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,9/25/2013 0:00,0.5,m,TP_ugl,Phosphorus as P,,504,ug/l,,,0.504,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,12/18/2013 0:00,0.5,m,TP_ugl,Phosphorus as P,,225,ug/l,,,0.225,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/22/2014 0:00,0.5,m,TP_ugl,Phosphorus as P,,975,ug/l,,,0.975,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/9/2014 0:00,0.5,m,TP_ugl,Phosphorus as P,,354,ug/l,,,0.354,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/17/2014 0:00,0.5,m,TP_ugl,Phosphorus as P,,267,ug/l,,,0.267,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/22/2014 0:00,0.5,m,TP_ugl,Phosphorus as P,,409,ug/l,,,0.409,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/18/2015 0:00,0.5,m,TP_ugl,Phosphorus as P,,265,ug/l,,,0.265,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/21/2015 0:00,0.5,m,TP_ugl,Phosphorus as P,,343,ug/l,,,0.343,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/18/2015 0:00,0.5,m,TP_ugl,Phosphorus as P,,282,ug/l,,,0.282,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,3/21/2016 0:00,0.5,m,TP_ugl,Phosphorus as P,,276,ug/l,,,0.276,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,6/21/2016 0:00,0.5,m,TP_ugl,Phosphorus as P,,408,ug/l,,,0.408,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,9/22/2016 0:00,0.5,m,TP_ugl,Phosphorus as P,,297,ug/l,,,0.297,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,12/5/2016 0:00,0.5,m,TP_ugl,Phosphorus as P,,253,ug/l,,,0.253,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/25/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,199,ug/l,,,0.199,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/24/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,515,ug/l,,,0.515,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/24/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,520,ug/l,,,0.52,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/25/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,849,ug/l,,,0.849,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/23/2017 0:00,0.5,m,TP_ugl,Phosphorus as P,,655,ug/l,,,0.655,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/22/2018 0:00,0.5,m,TP_ugl,Phosphorus as P,,417,ug/l,,,0.417,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/23/2018 0:00,0.5,m,TP_ugl,Phosphorus as P,,670,ug/l,,,0.67,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/23/2018 0:00,0.5,m,TP_ugl,Phosphorus as P,,298,ug/l,,,0.298,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/14/2018 0:00,0.5,m,TP_ugl,Phosphorus as P,,449,ug/l,,,0.449,mg/L

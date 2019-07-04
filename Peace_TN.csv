@@ -1,51 +1,92 @@
 WBodyID,WaterBodyName,DataSource,StationID,StationName,Actual_StationID,Actual_Latitude,Actual_Longitude,DEP_WBID,SampleDate,ActivityDepth,DepthUnits,Parameter,Characteristic,Sample_Fraction,Result_Value,Result_Unit,QACode,Result_Comment,Original_Result_Value,Original_Result_Unit
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/21/1995 0:00,0.5,m,TN_ugl,Nitrogen,,2040,ug/l,,,2.04,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/7/1996 0:00,0.5,m,TN_ugl,Nitrogen,,1800,ug/l,,,1.8,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/21/1996 0:00,0.5,m,TN_ugl,Nitrogen,,1180,ug/l,,,1.18,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,8/14/1996 0:00,0.5,m,TN_ugl,Nitrogen,,1540,ug/l,,,1.54,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/20/1996 0:00,0.5,m,TN_ugl,Nitrogen,,1600,ug/l,,,1.6,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/12/1997 0:00,0.5,m,TN_ugl,Nitrogen,,1340,ug/l,,,1.34,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/20/1997 0:00,0.5,m,TN_ugl,Nitrogen,,1540,ug/l,,,1.54,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,8/12/1997 0:00,0.5,m,TN_ugl,Nitrogen,,1930,ug/l,,,1.93,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/6/1997 0:00,0.5,m,TN_ugl,Nitrogen,,2230,ug/l,,,2.23,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/11/1998 0:00,0.5,m,TN_ugl,Nitrogen,,1630,ug/l,,,1.63,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/14/1998 0:00,0.5,m,TN_ugl,Nitrogen,,2120,ug/l,,,2.12,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,3/24/2010 0:00,0.5,m,TN_ugl,Nitrogen,,1610,ug/l,,,1.61,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/8/2010 0:00,0.5,m,TN_ugl,Nitrogen,,1530,ug/l,,,1.53,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/8/2010 0:00,0.5,m,TN_ugl,Nitrogen,,1400,ug/l,,,1.4,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,9/20/2010 0:00,0.5,m,TN_ugl,Nitrogen,,1720,ug/l,,,1.72,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,12/2/2010 0:00,0.5,m,TN_ugl,Nitrogen,,2440,ug/l,,,2.44,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,3/23/2011 0:00,0.5,m,TN_ugl,Nitrogen,,2130,ug/l,,,2.13,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/2/2011 0:00,0.5,m,TN_ugl,Nitrogen,,870,ug/l,,,0.87,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,9/19/2011 0:00,0.5,m,TN_ugl,Nitrogen,,3210,ug/l,,,3.21,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,12/15/2011 0:00,0.5,m,TN_ugl,Nitrogen,,3900,ug/l,,,3.9,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,1/24/2012 0:00,0.5,m,TN_ugl,Nitrogen,,1280,ug/l,,,1.28,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,4/17/2012 0:00,0.5,m,TN_ugl,Nitrogen,,470,ug/l,,,0.47,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,7/24/2012 0:00,0.5,m,TN_ugl,Nitrogen,,1570,ug/l,,,1.57,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,10/17/2012 0:00,0.5,m,TN_ugl,Nitrogen,,1730,ug/l,,,1.73,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/5/2013 0:00,0.5,m,TN_ugl,Nitrogen,,1270,ug/l,,,1.27,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/21/2013 0:00,0.5,m,TN_ugl,Nitrogen,,480,ug/l,,,0.48,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,8/21/2013 0:00,0.5,m,TN_ugl,Nitrogen,,1940,ug/l,,,1.94,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/19/2013 0:00,0.5,m,TN_ugl,Nitrogen,,1450,ug/l,,,1.45,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,3/20/2014 0:00,0.5,m,TN_ugl,Nitrogen,,1450,ug/l,,,1.45,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/17/2014 0:00,0.5,m,TN_ugl,Nitrogen,,1280,ug/l,,,1.28,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,9/23/2014 0:00,0.5,m,TN_ugl,Nitrogen,,1540,ug/l,,,1.54,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,12/15/2014 0:00,0.5,m,TN_ugl,Nitrogen,,2050,ug/l,,,2.05,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,1/22/2015 0:00,0.5,m,TN_ugl,Nitrogen,,1890,ug/l,,,1.89,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,4/21/2015 0:00,0.5,m,TN_ugl,Nitrogen,,1910,ug/l,,,1.91,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,7/27/2015 0:00,0.5,m,TN_ugl,Nitrogen,,1740,ug/l,,,1.74,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,10/26/2015 0:00,0.5,m,TN_ugl,Nitrogen,,1810,ug/l,,,1.81,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/17/2016 0:00,0.5,m,TN_ugl,Nitrogen,,1410,ug/l,,,1.41,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/18/2016 0:00,0.5,m,TN_ugl,Nitrogen,,1670,ug/l,,,1.67,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,5/18/2016 0:00,0.5,m,TN_ugl,Nitrogen,,1640,ug/l,,,1.64,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,8/16/2016 0:00,0.5,m,TN_ugl,Nitrogen,,1540,ug/l,,,1.54,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,11/17/2016 0:00,0.5,m,TN_ugl,Nitrogen,,1810,ug/l,,,1.81,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,3/16/2017 0:00,0.5,m,TN_ugl,Nitrogen,,1470,ug/l,,,1.47,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,6/15/2017 0:00,0.5,m,TN_ugl,Nitrogen,,1590,ug/l,,,1.59,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,9/25/2017 0:00,0.5,m,TN_ugl,Nitrogen,,1900,ug/l,,,1.9,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,12/14/2017 0:00,0.5,m,TN_ugl,Nitrogen,,1970,ug/l,,,1.97,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,1/4/2018 0:00,0.5,m,TN_ugl,Nitrogen,,1810,ug/l,,,1.81,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,4/18/2018 0:00,0.5,m,TN_ugl,Nitrogen,,2830,ug/l,,,2.83,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,7/23/2018 0:00,0.5,m,TN_ugl,Nitrogen,,1810,ug/l,,,1.81,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,10/16/2018 0:00,0.5,m,TN_ugl,Nitrogen,,1940,ug/l,,,1.94,mg/L
-181964,Peace River,POLKCO_NRD_WQ,PEACE RVR78, AT COUNTY LINE RD NO. 664 HARDEE CO,Peace Rvr78,27.6461111,-81.8022777,1623H,2/25/2019 0:00,0.5,m,TN_ugl,Nitrogen,,2180,ug/l,,,2.18,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/11/1993 0:00,0.5,m,TN_ugl,Nitrogen,,4190,ug/l,,,4.19,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/13/1993 0:00,0.5,m,TN_ugl,Nitrogen,,2320,ug/l,,,2.32,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/17/1993 0:00,0.5,m,TN_ugl,Nitrogen,,1800,ug/l,,,1.8,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/23/1993 0:00,0.5,m,TN_ugl,Nitrogen,,1510,ug/l,,,1.51,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/21/1995 0:00,0.5,m,TN_ugl,Nitrogen,,2360,ug/l,,,2.36,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/7/1996 0:00,0.5,m,TN_ugl,Nitrogen,,3200,ug/l,,,3.2,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/21/1996 0:00,0.5,m,TN_ugl,Nitrogen,,1940,ug/l,,,1.94,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/14/1996 0:00,0.5,m,TN_ugl,Nitrogen,,2640,ug/l,,,2.64,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/20/1996 0:00,0.5,m,TN_ugl,Nitrogen,,1390,ug/l,,,1.39,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/12/1997 0:00,0.5,m,TN_ugl,Nitrogen,,3690,ug/l,,,3.69,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/20/1997 0:00,0.5,m,TN_ugl,Nitrogen,,1510,ug/l,,,1.51,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/12/1997 0:00,0.5,m,TN_ugl,Nitrogen,,2240,ug/l,,,2.24,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/6/1997 0:00,0.5,m,TN_ugl,Nitrogen,,3300,ug/l,,,3.3,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/11/1998 0:00,0.5,m,TN_ugl,Nitrogen,,1800,ug/l,,,1.8,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/14/1998 0:00,0.5,m,TN_ugl,Nitrogen,,2870,ug/l,,,2.87,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/10/1998 0:00,0.5,m,TN_ugl,Nitrogen,,2550,ug/l,,,2.55,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/12/1998 0:00,0.5,m,TN_ugl,Nitrogen,,2640,ug/l,,,2.64,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/1/1999 0:00,0.5,m,TN_ugl,Nitrogen,,2080,ug/l,,,2.08,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/14/1999 0:00,0.5,m,TN_ugl,Nitrogen,,1230,ug/l,,,1.23,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/14/1999 0:00,0.5,m,TN_ugl,Nitrogen,,2330,ug/l,,,2.33,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/5/1999 0:00,0.5,m,TN_ugl,Nitrogen,,2680,ug/l,,,2.68,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/13/2000 0:00,0.5,m,TN_ugl,Nitrogen,,1469,ug/l,,,1.469,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/17/2000 0:00,0.5,m,TN_ugl,Nitrogen,,1070,ug/l,,,1.07,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/17/2000 0:00,0.5,m,TN_ugl,Nitrogen,,1360,ug/l,,,1.36,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/4/2000 0:00,0.5,m,TN_ugl,Nitrogen,,2480,ug/l,,,2.48,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/3/2001 0:00,0.5,m,TN_ugl,Nitrogen,,1270,ug/l,,,1.27,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,3/6/2001 0:00,0.5,m,TN_ugl,Nitrogen,,1118,ug/l,,,1.118,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/3/2001 0:00,0.5,m,TN_ugl,Nitrogen,,455,ug/l,,,0.455,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/29/2001 0:00,0.5,m,TN_ugl,Nitrogen,,2780,ug/l,,,2.78,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/15/2002 0:00,0.5,m,TN_ugl,Nitrogen,,1952,ug/l,,,1.952,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/16/2002 0:00,0.5,m,TN_ugl,Nitrogen,,1220,ug/l,,,1.22,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/16/2002 0:00,0.5,m,TN_ugl,Nitrogen,,1280,ug/l,,,1.28,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/24/2002 0:00,0.5,m,TN_ugl,Nitrogen,,2920,ug/l,,,2.92,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/24/2002 0:00,0.5,m,TN_ugl,Nitrogen,,2810,ug/l,,,2.81,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/23/2002 0:00,0.5,m,TN_ugl,Nitrogen,,3725,ug/l,,,3.725,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/23/2002 0:00,0.5,m,TN_ugl,Nitrogen,,3587,ug/l,,,3.587,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/28/2003 0:00,0.5,m,TN_ugl,Nitrogen,,2040,ug/l,,,2.04,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/16/2003 0:00,0.5,m,TN_ugl,Nitrogen,,1870,ug/l,,,1.87,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/23/2003 0:00,0.5,m,TN_ugl,Nitrogen,,2610,ug/l,,,2.61,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/8/2003 0:00,0.5,m,TN_ugl,Nitrogen,,3310,ug/l,,,3.31,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/7/2004 0:00,0.5,m,TN_ugl,Nitrogen,,2300,ug/l,,,2.3,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/15/2004 0:00,0.5,m,TN_ugl,Nitrogen,,1676,ug/l,,,1.676,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/22/2004 0:00,0.5,m,TN_ugl,Nitrogen,,2090,ug/l,,,2.09,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/14/2004 0:00,0.5,m,TN_ugl,Nitrogen,,2410,ug/l,,,2.41,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/25/2006 0:00,0.5,m,TN_ugl,Nitrogen,,2630,ug/l,,,2.63,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/20/2006 0:00,0.5,m,TN_ugl,Nitrogen,,1380,ug/l,,,1.38,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/18/2006 0:00,0.5,m,TN_ugl,Nitrogen,,1960,ug/l,,,1.96,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/18/2006 0:00,0.5,m,TN_ugl,Nitrogen,,5030,ug/l,,,5.03,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/18/2007 0:00,0.5,m,TN_ugl,Nitrogen,,1880,ug/l,,,1.88,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/17/2007 0:00,0.5,m,TN_ugl,Nitrogen,,1080,ug/l,,,1.08,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/23/2007 0:00,0.5,m,TN_ugl,Nitrogen,,1020,ug/l,,,1.02,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/24/2007 0:00,0.5,m,TN_ugl,Nitrogen,,2040,ug/l,,,2.04,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/17/2008 0:00,0.5,m,TN_ugl,Nitrogen,,1040,ug/l,,,1.04,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/1/2008 0:00,0.5,m,TN_ugl,Nitrogen,,1120,ug/l,,,1.12,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/14/2008 0:00,0.5,m,TN_ugl,Nitrogen,,2370,ug/l,,,2.37,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/8/2008 0:00,0.5,m,TN_ugl,Nitrogen,,2440,ug/l,,,2.44,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/4/2009 0:00,0.5,m,TN_ugl,Nitrogen,,1770,ug/l,,,1.77,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/19/2009 0:00,0.5,m,TN_ugl,Nitrogen,,2200,ug/l,,,2.2,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,3/23/2010 0:00,0.5,m,TN_ugl,Nitrogen,,2440,ug/l,,,2.44,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,6/2/2010 0:00,0.5,m,TN_ugl,Nitrogen,,1780,ug/l,,,1.78,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,9/23/2010 0:00,0.5,m,TN_ugl,Nitrogen,,2180,ug/l,,,2.18,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,12/2/2010 0:00,0.5,m,TN_ugl,Nitrogen,,1510,ug/l,,,1.51,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/19/2011 0:00,0.5,m,TN_ugl,Nitrogen,,2030,ug/l,,,2.03,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/6/2011 0:00,0.5,m,TN_ugl,Nitrogen,,2590,ug/l,,,2.59,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/20/2011 0:00,0.5,m,TN_ugl,Nitrogen,,2150,ug/l,,,2.15,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/5/2011 0:00,0.5,m,TN_ugl,Nitrogen,,2050,ug/l,,,2.05,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/23/2012 0:00,0.5,m,TN_ugl,Nitrogen,,2250,ug/l,,,2.25,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/5/2012 0:00,0.5,m,TN_ugl,Nitrogen,,4170,ug/l,,,4.17,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,6/20/2013 0:00,0.5,m,TN_ugl,Nitrogen,,2230,ug/l,,,2.23,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,9/25/2013 0:00,0.5,m,TN_ugl,Nitrogen,,2750,ug/l,,,2.75,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,12/18/2013 0:00,0.5,m,TN_ugl,Nitrogen,,1770,ug/l,,,1.77,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/22/2014 0:00,0.5,m,TN_ugl,Nitrogen,,3170,ug/l,,,3.17,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/9/2014 0:00,0.5,m,TN_ugl,Nitrogen,,2010,ug/l,,,2.01,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/17/2014 0:00,0.5,m,TN_ugl,Nitrogen,,2090,ug/l,,,2.09,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/22/2014 0:00,0.5,m,TN_ugl,Nitrogen,,2270,ug/l,,,2.27,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/18/2015 0:00,0.5,m,TN_ugl,Nitrogen,,2470,ug/l,,,2.47,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/21/2015 0:00,0.5,m,TN_ugl,Nitrogen,,1560,ug/l,,,1.56,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/18/2015 0:00,0.5,m,TN_ugl,Nitrogen,,1800,ug/l,,,1.8,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,3/21/2016 0:00,0.5,m,TN_ugl,Nitrogen,,1750,ug/l,,,1.75,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,6/21/2016 0:00,0.5,m,TN_ugl,Nitrogen,,2000,ug/l,,,2,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,9/22/2016 0:00,0.5,m,TN_ugl,Nitrogen,,1940,ug/l,,,1.94,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,12/5/2016 0:00,0.5,m,TN_ugl,Nitrogen,,1630,ug/l,,,1.63,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,1/25/2017 0:00,0.5,m,TN_ugl,Nitrogen,,1650,ug/l,,,1.65,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/24/2017 0:00,0.5,m,TN_ugl,Nitrogen,,6420,ug/l,,,6.42,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,4/24/2017 0:00,0.5,m,TN_ugl,Nitrogen,,6460,ug/l,,,6.46,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,7/25/2017 0:00,0.5,m,TN_ugl,Nitrogen,,2510,ug/l,,,2.51,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,10/23/2017 0:00,0.5,m,TN_ugl,Nitrogen,,2710,ug/l,,,2.71,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,2/22/2018 0:00,0.5,m,TN_ugl,Nitrogen,,2310,ug/l,,,2.31,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,5/23/2018 0:00,0.5,m,TN_ugl,Nitrogen,,2490,ug/l,,,2.49,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,8/23/2018 0:00,0.5,m,TN_ugl,Nitrogen,,2140,ug/l,,,2.14,mg/L
+181964,Peace River,POLKCO_NRD_WQ,PEACE RVR10, Peace River Bridge On Hwy 60 (Old Id P.C. Canal10),Peace Rvr10,27.90144444,-81.81725,1623J,11/14/2018 0:00,0.5,m,TN_ugl,Nitrogen,,1940,ug/l,,,1.94,mg/L
