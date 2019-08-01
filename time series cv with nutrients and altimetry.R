@@ -3,7 +3,8 @@ require(neuralnet)
 require(kernlab)
 require(doParallel)
 rm(list=ls())
-setwd("C:/Users/xswang/HAB Research/")
+setwd("D:/Li_Glibert_Backup")
+# setwd("C:/Users/xswang/HAB Research/")
 #####################################################################################
 ##Get Data
 HAB = read.csv("West_Florida_HAB_weekly_avg.csv")
@@ -54,7 +55,7 @@ marks = round(seq(1, nrow(alldata),length.out=11))
 marks[11] = 1084
 
 ## Used parallel processing to make it faster
-cl <- makeCluster(detectCores()-4)#
+cl <- makeCluster(detectCores()-2)#
 registerDoParallel(cl)
 testpred <- foreach(i=1:10, .combine=rbind) %dopar%{
   require(e1071)
@@ -119,9 +120,16 @@ stopCluster(cl)
 ##Read in data
 # colnames(testpred) = c("Real","SVM","NB","RVM","NET")
 # write.csv(testpred, 'testpred.csv')
+# write.csv(alldata,'time_series_alldata.csv')
+# write.csv(prevdata,'time_series_prevdata.csv')
 
 testpred = read.csv("testpred.csv")
+alldata = read.csv("time_series_alldata.csv")
+prevdata = read.csv("time_series_prevdata.csv")
 testpred$X = NULL
+alldata$X = NULL
+prevdata$X = NULL
+
 HABstate = testpred$Real
 ##Match up dates with predictions
 date = rep(as.Date("1900-01-01"), nrow(testpred))
@@ -137,32 +145,34 @@ firstpart[1:522] = TRUE
 
 #####################################################################################
 ##Plot green as correct and red as incorrect
-tiff(file = "SVM CV time series.tiff", width = 18, height = 3.75, units = "in",
-     pointsize=10, res = 300, compression = c("lzw"))
+tiff(file = "SVM CV time series.tiff", width = 18, height = 4.25, units = "in",
+     pointsize=10, res = 600, compression = c("lzw"))
 #par(mfrow=c(1,2))
 plot(HAB$Date, 
      log10(HAB$Abundance_cells),type="l",ylim=c(2,8), col = "black",
      xlab = "",
      ylab="Kb (log10(c/l))",
-     main = expression(paste(italic("K. brevis")," abundance in West Florida Shelf (SVM)")),
-     axes=F,
+     main = "",#expression(paste(italic("K. brevis")," abundance in West Florida Shelf (SVM)")),
+     axes=F,las=1,
      cex.main=1.5,cex.lab=1.5)
 axis.Date(1, at=seq(as.Date("1998-01-01"), as.Date("2019-01-01"), by="year"),
           cex.axis=1.25)
-axis(2,cex.axis=1.25)
-abline(a=5,b=0, col = "blue")
+axis(2,cex.axis=1.25,las=1)
+abline(a=5,b=0, col = "black",lwd=1,lty=2)
 points(HAB$Date[!is.na(match(HAB$Date, rightsvm))],
-       log10(HAB$Abundance_cells)[!is.na(match(HAB$Date, rightsvm))], 
-       col="green")
-points(HAB$Date[is.na(match(HAB$Date, rightsvm))],
-       log10(HAB$Abundance_cells)[is.na(match(HAB$Date, rightsvm))],
-       col="red")
+       log10(HAB$Abundance_cells)[!is.na(match(HAB$Date, rightsvm))],
+       pch=19)
+       #col="green")
+# points(HAB$Date[is.na(match(HAB$Date, rightsvm))],
+#        log10(HAB$Abundance_cells)[is.na(match(HAB$Date, rightsvm))],
+#        col="red")
 
-legend(x=HAB$Date[1]-10, y= 8, 
+legend(x=HAB$Date[1]+50, y= 9, #
+       xpd=TRUE,
        legend=c("Observation",
                 "SVM prediction"), 
-       col=c("black","green"), 
-       lty=c(1,0), lwd=3, pch=c(NA,1),cex=1)
+       col=c("black","black"), 
+       lty=c(1,0), lwd=3, pch=c(NA,19),cex=1)
 
 # plot(HAB$Date[!firstpart], 
 #      log10(HAB$Abundance_cells)[!firstpart],type="l",ylim=c(2,8), col = "black",
