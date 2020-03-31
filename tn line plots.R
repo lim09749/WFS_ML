@@ -16,15 +16,15 @@ states[HAB$Abundance_cells>=10^5] = 1
 alldata = read.csv("alldata.csv")
 alldata$X = NULL
 alldata = alldata[,c(1:9,18:23,32)]##tn
-# states=states[alldata$Tampa_TN_mg>6 & alldata$Caloosahatchee_TN_mg>5]
-# alldata = alldata[alldata$Tampa_TN_mg>6 & alldata$Caloosahatchee_TN_mg>5,]
+states=states[alldata$Tampa_TN_mg>6 & alldata$Caloosahatchee_TN_mg>5]
+alldata = alldata[alldata$Tampa_TN_mg>6 & alldata$Caloosahatchee_TN_mg>5,]
 prevdata = alldata
 scalefactors=scale(alldata)
 alldata=as.data.frame(scale(alldata))
 alldata$State=as.factor(states)
 
 # require(beepr)
-#load("tn_svm.RData")
+load("tn_svm.RData")
 HABsvm = tune.svm(as.factor(State)~.,
                   data=alldata,
                   type="C-classification",
@@ -32,7 +32,7 @@ HABsvm = tune.svm(as.factor(State)~.,
                   kernel="radial",
                   probability=T)
 HABsvm = HABsvm$best.model
-# save(HABsvm,file="tn_svm.RData")
+save(HABsvm,file="tn_svm.RData")
 # beep(sound=3)
 
 tiff("tn_temp.tiff", width = 5.75, height = 6, units = "in",

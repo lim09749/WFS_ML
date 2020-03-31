@@ -51,7 +51,7 @@ par(mfrow=c(2,2),mai=c(0.75,0.75,0.75,0.75))
 for(i in 18:23){#c(11, 13, 14, 15)
   curr = alldata[1,]
   curr[1:length(meanvals)] = meanvals
-
+  
   preds = rep(NA, numrows)
   sequence = seq(from=minvals[i],
                  to=maxvals[i],
@@ -73,7 +73,7 @@ for(i in 18:23){#c(11, 13, 14, 15)
        lwd=4)
   axis(1,cex.axis=2,at=axTicks(side=1),labels=signif(10^axTicks(side=1)*0.0283168,digits=1))
   axis(2,cex.axis=2)
-
+  
 }
 dev.off()
 

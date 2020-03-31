@@ -62,7 +62,7 @@ for(j in 1:length(plot_col)){
               scale = attr(scalefactors,"scaled:scale"))
   dat = as.data.frame(dat)
   colnames(dat) = colnames(scalefactors)
-  pred = attr(predict(HABsvm,dat,probability=T),"probabilities")[,2]
+  pred = attr(predict(svm_,dat,probability=T),"probabilities")[,2]
   plot(log10(10^xseq/10^9/7),pred,main=paste0(strsplit(colnames(alldata)[i],split="_")[[1]][1]," TP"),
        xlab="TP (tons/day)", ylab="HAB probability [%]",ylim=c(0.1,0.7),
        col=colors[j],cex.main=2,cex.lab=1.5,

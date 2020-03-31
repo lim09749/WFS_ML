@@ -24,13 +24,13 @@ alldata$State=as.factor(states)
 
 load("wind_svm.RData")
 # require(beepr)
-# HABsvm = tune.svm(as.factor(State)~.,
-#                   data=alldata,
-#                   type="C-classification",
-#                   cost = 2^(-5:10),
-#                   kernel="radial",
-#                   probability=T)
-# HABsvm = HABsvm$best.model
+HABsvm = tune.svm(as.factor(State)~.,
+                  data=alldata,
+                  type="C-classification",
+                  cost = 2^(-5:10),
+                  kernel="radial",
+                  probability=T)
+HABsvm = HABsvm$best.model
 # save(HABsvm,file="wind_svm.RData")
 # beep(sound=3)
 #############################################################################################################
@@ -51,8 +51,8 @@ tiff(file = "wind_line_plots.tiff", height = 9, width = 9,  units = "in",
 par(mfrow=c(2,2),mai=c(0.75,.75,0.75,0.75))
 for(j in 1:length(colors)){
   i = plot_col[j]
-  xseq = seq(from=-2,
-             to=2,
+  xseq = seq(from=-1.5,
+             to=0.9,
              length.out=numrows)
   dat = matrix(rep(c(meanvals),numrows),nrow=numrows,byrow=TRUE)
   dat[,i] = xseq
@@ -63,7 +63,7 @@ for(j in 1:length(colors)){
   pred = attr(predict(HABsvm,dat,probability=T),"probabilities")[,2]
   plot(undoscale(plot_col[j],xseq,scalefactors),pred,
        xlab="Wind speed (m/s)",axes=F,main=titles[j],
-       ylab="HAB probability [%]",ylim=c(0.15,0.5),
+       ylab="HAB probability [%]", ylim=c(0.15,0.5),
        col=colors[j],cex.main=3,cex.lab=2)
   axis(1,cex.axis=2.25)
   axis(2,cex.axis=2.25)

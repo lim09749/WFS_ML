@@ -56,9 +56,9 @@ getcontour = function(col1, col2,meanvals, numrows, alldata, addto1, addto2, HAB
 #####################################################################################
 numrows=100
 par(mfrow=c(2,2))
-xcol=2
+xcol = 6
 ycol = 1
-addto = seq(-1.25, 1.75, length.out=numrows)
+addto = seq(-1, 1.75, length.out=numrows)
 meanvals = colMeans(alldata[,1:(ncol(alldata)-1)])#
 cmat = getcontour(xcol, ycol, meanvals, numrows, alldata, addto, addto, HABsvm)
 contour(x=log10(10^undoscale(xcol, addto+meanvals[xcol], scalefactors)/(60*60*24*7)*0.0283168),
