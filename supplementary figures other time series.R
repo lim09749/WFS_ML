@@ -34,48 +34,70 @@ pred$X = NULL
 plot_ts = function(file_name, width, height, date, abundance, model_type, right){
   tiff(file = file_name, width = width, height = height, units = "in",
        pointsize=10, res = 300, compression = c("lzw"))
-  plot(date, 
-       log10(abundance),type="l",ylim=c(2,8), col = "black",
+  plot(date[500:length(date)], 
+       log10(abundance)[500:length(date)],type="l",ylim=c(2,8.4), col = "black",
        xlab = "",
        ylab="Kb (log10(c/l))",
-       main = model_type,#bquote(paste(italic("K. brevis")," abundance in West Florida Shelf (",.(model_type),")")),
+       main = "",#model_type,#bquote(paste(italic("K. brevis")," abundance in West Florida Shelf (",.(model_type),")")),
        axes=F,
        cex.main=1.5,cex.lab=1.5)
-  axis.Date(1, at=seq(as.Date("1998-01-01"), as.Date("2019-01-01"), by="year"),
+  axis.Date(1, at=seq(as.Date("2008-01-01"), as.Date("2019-01-01"), by="year"),
             cex.axis=1.25)
   axis(2,cex.axis=1.25)
-  abline(a=5,b=0, col = "blue")
-  points(date[!is.na(match(date, right))],
-         log10(abundance)[!is.na(match(date, right))], 
+  abline(a=5,b=0, col = "black", lty='dashed')
+  print(date[!is.na(match(date, right))])
+  points(date[!is.na(match(date, right))][281:length(date[!is.na(match(date, right))])],
+         log10(abundance)[!is.na(match(date, right))][281:length(date[!is.na(match(date, right))])], 
          col="green")
   # points(date[is.na(match(date, right))],
   #        log10(abundance)[is.na(match(date, right))],
-  #        col="red")
-  legend(x=date[1]-10, y= 8, 
-         legend=c("Observation",
-                  paste0(model_type," correct predictions")), 
-         col=c("black","green"), 
-         lty=c(1,0), lwd=3, pch=c(NA,1),cex=1)
-  
+  #        col="orange")
+  # legend(x=date[1]-100, y= 8.25, 
+  #        legend=c("Observation",
+  #                 paste0(model_type," correct predictions")
+  #                 ), 
+  #        col=c("black","green"), ncol=1,
+  #        lty=c(1,0), lwd=3, pch=c(NA,1),cex=1)
+  # 
   dev.off()
   
 }
 #####################################################################################
-plot_ts("new SVM supplementary Mar 20.tiff", width=18, height=3.75, 
+plot_ts("new SVM supplementary Mar 20.tiff", width=18, height=4.25, 
         date=HAB$Date, 
         abundance=HAB$Abundance_cells, 
         model_type="SVM", 
         right=as.Date(pred$Date[pred$Real==pred$SVM]))
 
-plot_ts("new NB supplementary Mar 20.tiff", width=18, height=3.75, 
+plot_ts("new RVM supplementary Mar 20.tiff", width=18, height=4.25, 
+        date=HAB$Date, 
+        abundance=HAB$Abundance_cells, 
+        model_type="RVM", 
+        right=as.Date(pred$Date[pred$Real==pred$RVM]))
+
+plot_ts("new NB supplementary Mar 20.tiff", width=18, height=4.25, 
         date=HAB$Date, 
         abundance=HAB$Abundance_cells, 
         model_type="NB", 
         right=as.Date(pred$Date[pred$Real==pred$NB]))
 
-plot_ts("new ANN supplementary Mar 20.tiff", width=18, height=3.75, 
+plot_ts("new ANN supplementary Mar 20.tiff", width=18, height=4.25, 
         date=HAB$Date, 
         abundance=HAB$Abundance_cells, 
         model_type="ANN", 
         right=as.Date(pred$Date[pred$Real==pred$NET]))
 
+############################################################################################
+
+plot_ts("new RVM supplementary Mar 20_1.tiff", width=9, height=4.25, 
+        date=HAB$Date, 
+        abundance=HAB$Abundance_cells, 
+        model_type="RVM", 
+        right=as.Date(pred$Date[pred$Real==pred$RVM]))
+
+
+plot_ts("new RVM supplementary Mar 20_2.tiff", width=9, height=4.25, 
+        date=HAB$Date, 
+        abundance=HAB$Abundance_cells, 
+        model_type="RVM", 
+        right=as.Date(pred$Date[pred$Real==pred$RVM]))

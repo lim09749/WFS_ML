@@ -92,7 +92,7 @@ cmat = getcontour(xcol, ycol, tn_meanvals, numrows, tn_data, addto1, addto2, HAB
 contour(x=log10(10^undoscale(xcol, addto1+tn_meanvals[xcol], tn_scalefactors)/10^9/7),
         y=log10(10^undoscale(ycol, addto2+tn_meanvals[ycol], tn_scalefactors)/10^9/7),
         z=cmat,
-        col="black",
+        col="red",
         xlab="Peace TN (tons/day)",
         ylab="Hillsborough TN (tons/day)",
         axes=F,
@@ -128,7 +128,7 @@ contour(x=log10(10^undoscale(xcol, addto1+tp_meanvals[xcol], tp_scalefactors)/10
         axes=F,
         frame.plot=T,
         lwd=3,
-        col="black",
+        col="blue",
         cex.main=3,cex.lab=2,
         labcex=2,
         levels=seq(from=0,to=1,by=0.05))
