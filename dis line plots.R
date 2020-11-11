@@ -58,8 +58,7 @@ for(j in 1:length(colors)){
   # if(j==1){
     plot(log10(10^xseq/(60*60*24*7)*0.0283168),pred,main=colnames(alldata)[i],
          xlab=expression("Discharge ("~m^{3}/s~")"), ylab="HAB probability [%]",ylim=c(0.1,0.5),
-         #col=colors[j],
-         cex.main=3,cex.lab=1.5,xlim=c(max(c(-1,min(log10(10^xseq/(60*60*24*7)*0.0283168)))),
+         col=colors[j],cex.main=3,cex.lab=1.5,xlim=c(max(c(-1,min(log10(10^xseq/(60*60*24*7)*0.0283168)))),
                                                      max(log10(10^xseq/(60*60*24*7)*0.0283168))),axes=F)
   # }else{
   #   points(log10(10^xseq/(60*60*24*7)*0.0283168),pred,
